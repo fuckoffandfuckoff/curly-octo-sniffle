@@ -789,7 +789,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") LXES15AAA1-100)
+        (field (name "Part Number") LXES15AAA1-153)
         (field (name Description) "TVS DIODE ESD .05PF 15KV 0402"))
       (libsource (lib hackrf) (part GSG-DIODE-TVS-BI))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -2542,7 +2542,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") LXES15AAA1-100)
+        (field (name "Part Number") LXES15AAA1-153)
         (field (name Description) "TVS DIODE ESD .05PF 15KV 0402"))
       (libsource (lib hackrf) (part GSG-DIODE-TVS-BI))
       (sheetpath (names /baseband/) (tstamps /50370666/))
@@ -2552,7 +2552,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") LXES15AAA1-100)
+        (field (name "Part Number") LXES15AAA1-153)
         (field (name Description) "TVS DIODE ESD .05PF 15KV 0402"))
       (libsource (lib hackrf) (part GSG-DIODE-TVS-BI))
       (sheetpath (names /baseband/) (tstamps /50370666/))
