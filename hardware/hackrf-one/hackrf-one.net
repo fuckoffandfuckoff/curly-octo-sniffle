@@ -193,7 +193,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -203,7 +203,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -213,7 +213,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -223,7 +223,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -233,7 +233,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -243,7 +243,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -253,7 +253,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -263,7 +263,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -273,7 +273,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -283,7 +283,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -293,7 +293,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -303,7 +303,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -313,7 +313,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -323,7 +323,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -333,7 +333,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -541,7 +541,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -571,7 +571,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -589,7 +589,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -599,7 +599,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -609,7 +609,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -619,7 +619,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -629,7 +629,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -809,7 +809,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -819,7 +819,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -829,7 +829,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -839,7 +839,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -879,7 +879,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -889,7 +889,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -919,7 +919,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -1019,7 +1019,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -1363,7 +1363,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /frontend/) (tstamps /503BB638/))
@@ -2672,7 +2672,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /baseband/) (tstamps /50370666/))
@@ -2729,7 +2729,7 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Murata)
-        (field (name "Part Number") GRM1555C1H330JA01D)
+        (field (name "Part Number") GCM1555C1H330JA16)
         (field (name Description) "CAP CER 33PF 50V 5% NP0 0402"))
       (libsource (lib device) (part C))
       (sheetpath (names /mcu/usb/power/) (tstamps /5037043E/))
