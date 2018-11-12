@@ -3506,8 +3506,8 @@
       (footprint hackrf:GSG-NRG4026)
       (fields
         (field (name Manufacturer) "Taiyo Yuden")
-        (field (name "Part Number") NRG4026T4R7M)
-        (field (name Description) "INDUCTOR 4.7UH 1.6A 20% SMD"))
+        (field (name "Part Number") NRS4018T4R7MDGJ)
+        (field (name Description) "INDUCTOR 4.7UH 1.7A 20% SMD"))
       (libsource (lib device) (part INDUCTOR))
       (sheetpath (names /mcu/usb/power/) (tstamps /5037043E/))
       (tstamp 4F8249E7))
@@ -3546,8 +3546,8 @@
       (footprint hackrf:GSG-NRG4026)
       (fields
         (field (name Manufacturer) "Taiyo Yuden")
-        (field (name "Part Number") NRG4026T4R7M)
-        (field (name Description) "INDUCTOR 4.7UH 1.6A 20% SMD"))
+        (field (name "Part Number") NRS4018T4R7MDGJ)
+        (field (name Description) "INDUCTOR 4.7UH 1.7A 20% SMD"))
       (libsource (lib device) (part INDUCTOR))
       (sheetpath (names /mcu/usb/power/) (tstamps /5037043E/))
       (tstamp 4F820301))
