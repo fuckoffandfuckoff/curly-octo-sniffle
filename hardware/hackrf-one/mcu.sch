@@ -3324,8 +3324,6 @@ F 6 "IC MCU 32BIT 144LQFP" H 7000 4750 60  0001 C CNN "Description"
 	1    7000 4750
 	1    0    0    -1  
 $EndComp
-Text GLabel 10000 5300 2    40   Input ~ 0
-TX
 Text GLabel 4200 3000 0    40   Input ~ 0
 HP
 Text GLabel 5450 7750 3    40   Input ~ 0
@@ -4206,8 +4204,6 @@ Wire Wire Line
 	9700 4100 10000 4100
 Wire Wire Line
 	9700 5200 10000 5200
-Wire Wire Line
-	10000 5300 9700 5300
 Wire Wire Line
 	7850 7450 7850 7750
 Wire Wire Line
@@ -5435,4 +5431,8 @@ Wire Wire Line
 	1300 2250 1200 2250
 Wire Wire Line
 	1700 7900 1700 8000
+Text GLabel 10000 5300 2    40   Input ~ 0
+!ANT_BIAS_FAULT
+Wire Wire Line
+	9700 5300 10000 5300
 $EndSCHEMATC
