@@ -1,4 +1,4 @@
-update=Tue 17 Apr 2018 06:35:23 AM MDT
+update=Mon 12 Nov 2018 01:42:32 AM MST
 version=1
 last_client=kicad
 [cvpcb]
@@ -43,9 +43,19 @@ LibName8=valves
 LibName9=led
 LibName10=dip_sockets
 LibName11=hackrf
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=../kicad
+LibDir=../kicad;../gsg-kicad-lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -77,13 +87,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=hackrf
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName31=../gsg-kicad-lib/gsg-symbols
