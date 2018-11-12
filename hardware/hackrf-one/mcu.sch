@@ -2785,9 +2785,6 @@ F 3 "" H 10550 3750 60  0001 C CNN
 $EndComp
 Text Label 10700 4200 2    40   ~ 0
 ISP
-NoConn ~ 5750 2050
-NoConn ~ 5850 2050
-NoConn ~ 6050 2050
 $Comp
 L VCC #PWR0262
 U 1 1 4F62B686
@@ -5433,4 +5430,45 @@ F 6 "RES 10K OHM 1/16W 5% 0402 SMD" H 3100 4000 60  0001 C CNN "Description"
 	1    3100 4000
 	-1   0    0    1   
 $EndComp
+$Comp
+L VCC #PWR?
+U 1 1 5BF1000A
+P 5550 850
+F 0 "#PWR?" H 5550 950 30  0001 C CNN
+F 1 "VCC" H 5550 950 30  0000 C CNN
+F 2 "" H 5550 850 60  0001 C CNN
+F 3 "" H 5550 850 60  0001 C CNN
+	1    5550 850 
+	1    0    0    -1  
+$EndComp
+Text Label 5750 1750 3    40   ~ 0
+ADC0_3
+Text Label 5850 1750 3    40   ~ 0
+ADC0_4
+Text Label 6050 1750 3    40   ~ 0
+ADC0_7
+Text Label 5250 950  0    40   ~ 0
+ADC0_3
+Text Label 5250 1050 0    40   ~ 0
+ADC0_4
+Text Label 5250 1150 0    40   ~ 0
+ADC0_7
+Wire Wire Line
+	5250 950  5550 950 
+Wire Wire Line
+	5550 850  5550 1150
+Wire Wire Line
+	5550 1050 5250 1050
+Connection ~ 5550 950 
+Wire Wire Line
+	5550 1150 5250 1150
+Connection ~ 5550 1050
+Wire Wire Line
+	6050 1750 6050 2050
+Wire Wire Line
+	5850 1750 5850 2050
+Wire Wire Line
+	5750 2050 5750 1750
+Text Notes 5050 1400 0    40   ~ 0
+pin straps for hardware\nversion detection
 $EndSCHEMATC
