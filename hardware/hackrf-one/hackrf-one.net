@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/mossmann/src/hackrf/hardware/hackrf-one/hackrf-one.sch)
-    (date "Mon 12 Nov 2018 10:30:59 PM MST")
+    (date "Wed 14 Nov 2018 01:45:22 PM MST")
     (tool "Eeschema 4.0.6")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -2191,10 +2191,10 @@
       (value TX_BALUN)
       (footprint hackrf:GSG-2500BL14M100)
       (fields
-        (field (name Manufacturer) "Johanson Technology")
-        (field (name "Part Number") 2500BL14M100T)
+        (field (name Manufacturer) Murata)
+        (field (name "Part Number") LDB182G4510G-120)
         (field (name Description) "BALUN CERAMIC CHIP WIMAX 2.5GHZ")
-        (field (name Note) "Alternative part: Murata LDB182G4510G-120"))
+        (field (name Note) "Alternative part: Johanson Technology 2500BL14M100T"))
       (libsource (lib hackrf) (part BALUN))
       (sheetpath (names /baseband/) (tstamps /50370666/))
       (tstamp 4F5BDC0F))
@@ -2202,10 +2202,10 @@
       (value RX_BALUN)
       (footprint hackrf:GSG-2500BL14M100)
       (fields
-        (field (name Manufacturer) "Johanson Technology")
-        (field (name "Part Number") 2500BL14M100T)
+        (field (name Manufacturer) Murata)
+        (field (name "Part Number") LDB182G4510G-120)
         (field (name Description) "BALUN CERAMIC CHIP WIMAX 2.5GHZ")
-        (field (name Note:) "Alternative part: Murata LDB182G4510G-120"))
+        (field (name Note:) "Alternative part: Johanson Technology 2500BL14M100T"))
       (libsource (lib hackrf) (part BALUN))
       (sheetpath (names /baseband/) (tstamps /50370666/))
       (tstamp 4F5BDB90))
@@ -3634,8 +3634,8 @@
       (value 12k)
       (footprint hackrf:GSG-0402)
       (fields
-        (field (name Manufacturer) Rohm)
-        (field (name "Part Number") MCR01MRTF1202)
+        (field (name Manufacturer) Yageo)
+        (field (name "Part Number") RC0402FR-0712KL)
         (field (name Description) "RES 12.0K OHM 1/16W 1% 0402 SMD"))
       (libsource (lib device) (part R))
       (sheetpath (names /mcu/usb/power/) (tstamps /5037043E/))
