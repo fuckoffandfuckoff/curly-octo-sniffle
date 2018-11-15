@@ -11057,7 +11057,7 @@
   (gr_text P28 (at 127.2084 144.5962 90) (layer F.SilkS)
     (effects (font (size 1.016 0.762) (thickness 0.1905)))
   )
-  (gr_text "P26\nLPC_JTAG" (at 147.7062 118.1548 90) (layer F.SilkS)
+  (gr_text "P26\nLPC_JTAG" (at 148.64 117.99 90) (layer F.SilkS)
     (effects (font (size 1.016 0.762) (thickness 0.1905)))
   )
   (gr_text "P3\nGND" (at 142.4738 117.4182) (layer F.SilkS)
