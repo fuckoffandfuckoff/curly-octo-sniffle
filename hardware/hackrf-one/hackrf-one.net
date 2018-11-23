@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/mossmann/src/hackrf/hardware/hackrf-one/hackrf-one.sch)
-    (date "Wed 14 Nov 2018 06:56:26 PM MST")
+    (date "Fri 23 Nov 2018 01:50:09 PM MST")
     (tool "Eeschema 4.0.6")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -3735,8 +3735,8 @@
       (footprint hackrf:GSG-0402)
       (fields
         (field (name Manufacturer) Yageo)
-        (field (name "Part Number") RC0603JR-0718KL)
-        (field (name Description) "RES SMD 18K OHM 5% 1/10W 0603"))
+        (field (name "Part Number") RC0402JR-0718KL)
+        (field (name Description) "RES SMD 18K OHM 5% 1/16W 0402"))
       (libsource (lib device) (part R))
       (sheetpath (names /mcu/usb/power/) (tstamps /5037043E/))
       (tstamp 527F56F2))
@@ -4853,14 +4853,14 @@
         (pin (num 7) (name HOLD) (type BiDi))
         (pin (num 8) (name VCC) (type power_in)))))
   (libraries
-    (library (logical gsg-symbols)
-      (uri /home/mossmann/src/hackrf/hardware/hackrf-one/../gsg-kicad-lib/gsg-symbols.lib))
+    (library (logical device)
+      (uri /usr/share/kicad/library/device.lib))
     (library (logical hackrf)
       (uri /home/mossmann/src/hackrf/hardware/kicad/hackrf.lib))
     (library (logical hackrf-one-cache)
       (uri /home/mossmann/src/hackrf/hardware/hackrf-one/hackrf-one-cache.lib))
-    (library (logical device)
-      (uri /usr/share/kicad/library/device.lib)))
+    (library (logical gsg-symbols)
+      (uri /home/mossmann/src/hackrf/hardware/hackrf-one/../gsg-kicad-lib/gsg-symbols.lib)))
   (nets
     (net (code 1) (name "Net-(U24-Pad66)")
       (node (ref U24) (pin 66)))
