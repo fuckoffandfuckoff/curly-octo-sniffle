@@ -185,7 +185,7 @@ extern "C"
 #define SCU_NO_MIX_BYPASS   (P1_7)  /* GPIO1[0] on P1_7 */
 #define SCU_RX_MIX_BP       (P5_3)  /* GPIO2[12] on P5_3 */
 #define SCU_TX_AMP          (P5_6)  /* GPIO2[15] on P5_6 */
-#define SCU_TX              (P6_7)  /* GPIO5[15] on P6_7 */
+//#define SCU_TX              (P6_7)  /* GPIO5[15] on P6_7 */
 #define SCU_MIX_BYPASS      (P6_8)  /* GPIO5[16] on P6_8 */
 #define SCU_RX              (P2_5)  /* GPIO5[5] on P2_5 */
 #define SCU_NO_TX_AMP_PWR   (P6_9)  /* GPIO3[5] on P6_9 */

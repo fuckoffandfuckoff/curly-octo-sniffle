@@ -48,7 +48,7 @@ typedef struct rf_path_t {
 	gpio_t gpio_no_mix_bypass;
 	gpio_t gpio_rx_mix_bp;
 	gpio_t gpio_tx_amp;
-	gpio_t gpio_tx;
+	//gpio_t gpio_tx;
 	gpio_t gpio_mix_bypass;
 	gpio_t gpio_rx;
 	gpio_t gpio_no_tx_amp_pwr;

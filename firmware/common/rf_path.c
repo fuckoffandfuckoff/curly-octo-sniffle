@@ -90,10 +90,10 @@ uint8_t switchctrl = SWITCHCTRL_SAFE;
 #ifdef HACKRF_ONE
 static void switchctrl_set_hackrf_one(rf_path_t* const rf_path, uint8_t ctrl) {
 	if (ctrl & SWITCHCTRL_TX) {
-		gpio_set(rf_path->gpio_tx);
+		//gpio_set(rf_path->gpio_tx);
 		gpio_clear(rf_path->gpio_rx);
 	} else {
-		gpio_clear(rf_path->gpio_tx);
+		//gpio_clear(rf_path->gpio_tx);
 		gpio_set(rf_path->gpio_rx);
 	}
 
@@ -153,9 +153,11 @@ static void switchctrl_set_hackrf_one(rf_path_t* const rf_path, uint8_t ctrl) {
 		gpio_set(rf_path->gpio_no_rx_amp_pwr);
 
 	if (ctrl & SWITCHCTRL_ANT_PWR) {
-		mixer_set_gpo(&mixer, 0x00); /* turn on antenna power by clearing GPO1 */
+		//mixer_set_gpo(&mixer, 0x00); /* turn on antenna power by clearing GPO1 */
+		mixer_set_gpo(&mixer, 0x01); /* turn on antenna power by setting GPO1 */
 	} else {
-		mixer_set_gpo(&mixer, 0x01); /* turn off antenna power by setting GPO1 */
+		//mixer_set_gpo(&mixer, 0x01); /* turn off antenna power by setting GPO1 */
+		mixer_set_gpo(&mixer, 0x00); /* turn off antenna power by clearing GPO1 */
 	}
 }
 #endif
@@ -246,7 +248,7 @@ void rf_path_pin_setup(rf_path_t* const rf_path) {
 	scu_pinmux(SCU_NO_MIX_BYPASS,  SCU_GPIO_FAST | SCU_CONF_FUNCTION0);
 	scu_pinmux(SCU_RX_MIX_BP,      SCU_GPIO_FAST | SCU_CONF_FUNCTION0);
 	scu_pinmux(SCU_TX_AMP,         SCU_GPIO_FAST | SCU_CONF_FUNCTION0);
-	scu_pinmux(SCU_TX,             SCU_GPIO_FAST | SCU_CONF_FUNCTION4);
+	//scu_pinmux(SCU_TX,             SCU_GPIO_FAST | SCU_CONF_FUNCTION4);
 	scu_pinmux(SCU_MIX_BYPASS,     SCU_GPIO_FAST | SCU_CONF_FUNCTION4);
 	scu_pinmux(SCU_RX,             SCU_GPIO_FAST | SCU_CONF_FUNCTION4);
 	scu_pinmux(SCU_NO_TX_AMP_PWR,  SCU_GPIO_FAST | SCU_CONF_FUNCTION0);
@@ -268,7 +270,7 @@ void rf_path_pin_setup(rf_path_t* const rf_path) {
 	gpio_output(rf_path->gpio_rx_mix_bp);
 	gpio_output(rf_path->gpio_tx_amp);
 	gpio_output(rf_path->gpio_no_tx_amp_pwr);
-	gpio_output(rf_path->gpio_tx);
+	//gpio_output(rf_path->gpio_tx);
 	gpio_output(rf_path->gpio_mix_bypass);
 	gpio_output(rf_path->gpio_rx);
 
