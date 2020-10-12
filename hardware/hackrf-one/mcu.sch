@@ -5,7 +5,7 @@ $Descr User 17000 11000
 encoding utf-8
 Sheet 4 4
 Title "HackRF One"
-Date "2020-07-21"
+Date "2020-10-12"
 Rev "r6"
 Comp "Copyright 2012-2020 Great Scott Gadgets"
 Comment1 "Michael Ossmann"
